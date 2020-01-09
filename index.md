@@ -33,18 +33,18 @@
 
 <p>The following density map displays the locations of the jihadist attacks:
 </p>
-<img width="600" alt="map 3 jih" src="https://user-images.githubusercontent.com/54607208/72087248-1b433180-32d6-11ea-8644-64015ffc22d8.PNG">
+<img width="620" alt="map 3 jih" src="https://user-images.githubusercontent.com/54607208/72087248-1b433180-32d6-11ea-8644-64015ffc22d8.PNG">
   
 <p>The following density map displays the locations of the non-jihadist attacks:
 </p>  
-<img width="600" alt="map 4 non j giusta" src="https://user-images.githubusercontent.com/54607208/72087270-27c78a00-32d6-11ea-9598-ae7f98818985.PNG">
+<img width="620" alt="map 4 non j giusta" src="https://user-images.githubusercontent.com/54607208/72087270-27c78a00-32d6-11ea-9598-ae7f98818985.PNG">
 
 <h2>Comparison by Modus Operandi</h2>
 <p>In this second part of the project, I will compare the&nbsp;various modus operandi whereby jihadist and non-jihadist terrorist perpetrated their attacks.&nbsp;I will create a new modus operandi called ‘Mixed Type’ if the terrorists used more than one modus operandi to carry on their attack.</p>
 
 <img width="500" alt="mod ope jih" src="https://user-images.githubusercontent.com/54607208/72086284-a3283c00-32d4-11ea-9bc6-cd96f4e24288.PNG">
 
-<img width="480" alt="non jiahd mod op" src="https://user-images.githubusercontent.com/54607208/72086421-e2ef2380-32d4-11ea-8137-90ad8b439a2d.PNG">
+<img width="470" alt="non jiahd mod op" src="https://user-images.githubusercontent.com/54607208/72086421-e2ef2380-32d4-11ea-8137-90ad8b439a2d.PNG">
 
 <h2>Comparison by Target</h2>
 <p>The third section will compare the targets hit by Islamist groups and Non-Jihadist groups. Similarly to what I did for the section on modus operandi, I will create a new target ‘Multiple Targets’ if the terrorist attack hit different types of targets.&nbsp;</p>
