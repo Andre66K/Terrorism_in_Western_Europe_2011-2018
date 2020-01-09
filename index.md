@@ -7,15 +7,61 @@
 <h2>Preliminary Analysis</h2>
 <p>&nbsp;</p>
 <p>Firstly, I will index the dataset and got only the attacks perpetrated in Western Europe between January 2011 and December 2018. As a preliminary analysis, I would like to compare the number of attacks carried on by known perpetrators and the number of attacks perpetrated by unknown attackers.&nbsp;</p>
+
+<img width="500" alt="total attacks" src="https://user-images.githubusercontent.com/54607208/72084764-17151500-32d2-11ea-9e8c-20c055de1e3e.PNG">
+
 <p>Then, I will rule out all the attacks perpetrated by unknown attackers and divide the known groups in two macro categories: ‘Islamist/Jihadist’ and ‘Non-Jihadist’. As I did with know and unknown groups, I will compare the number of attacks carried on by Islamist/Jihadist and Non-Jihadist.&nbsp;</p>
-<p><strong>Comparison by Country</strong></p>
+
+<img width="500" alt="number of attacks 2011-2018" src="https://user-images.githubusercontent.com/54607208/72084808-2eec9900-32d2-11ea-96cf-de617730a0fe.PNG">
+
+<h2>Comparison by Country</h2>
 <p>From this section on, I just consider the attacks perpetrated by known terrorist groups. In this first section, I will compare the countries that have been affected the most by the attacks of both groups.&nbsp;</p>
+
+<img width="650" alt="countries jihad" src="https://user-images.githubusercontent.com/54607208/72086212-8855c780-32d4-11ea-8995-513f5701088f.PNG">
+
+<img width="650" alt="countries non jihad" src="https://user-images.githubusercontent.com/54607208/72086242-93105c80-32d4-11ea-899e-b5c4dec595db.PNG">
+
+<p>Next, I will plot some maps that display the locations of the attacks.&nbsp;
+</p>
+<p>The following map displays the locations of the jihadist attacks:
+  
+<img width="600" alt="map 1 jiha" src="https://user-images.githubusercontent.com/54607208/72087189-fea6f980-32d5-11ea-8628-8835077abb43.PNG">
+
+<p>The following map displays the locations of the non-jihadist attacks:
+  
+<img width="600" alt="map 2 non jh" src="https://user-images.githubusercontent.com/54607208/72087224-0e264280-32d6-11ea-84ef-3b140acbb177.PNG">
+
+<p>The following density map displays the locations of the jihadist attacks:
+  
+<img width="600" alt="map 3 jih" src="https://user-images.githubusercontent.com/54607208/72087248-1b433180-32d6-11ea-8644-64015ffc22d8.PNG">
+  
+<p>The following density map displays the locations of the non-jihadist attacks:
+  
+<img width="600" alt="map 4 non j giusta" src="https://user-images.githubusercontent.com/54607208/72087270-27c78a00-32d6-11ea-9598-ae7f98818985.PNG">
+
 <h2>Comparison by Modus Operandi</h2>
 <p>In this second part of the project, I will compare the&nbsp;various modus operandi whereby jihadist and non-jihadist terrorist perpetrated their attacks.&nbsp;I will create a new modus operandi called ‘Mixed Type’ if the terrorists used more than one modus operandi to carry on their attack.</p>
+
+<img width="500" alt="mod ope jih" src="https://user-images.githubusercontent.com/54607208/72086284-a3283c00-32d4-11ea-9bc6-cd96f4e24288.PNG">
+
+<img width="500" alt="non jiahd mod op" src="https://user-images.githubusercontent.com/54607208/72086421-e2ef2380-32d4-11ea-8137-90ad8b439a2d.PNG">
+
 <h2>Comparison by Target</h2>
 <p>The third section will compare the targets hit by Islamist groups and Non-Jihadist groups. Similarly to what I did for the section on modus operandi, I will create a new target ‘Multiple Targets’ if the terrorist attack hit different types of targets.&nbsp;</p>
+
+<img width="650" alt="targets jihad" src="https://user-images.githubusercontent.com/54607208/72086477-fdc19800-32d4-11ea-88ce-90bdcc9b93cd.PNG">
+
+<img width="650" alt="targets non j" src="https://user-images.githubusercontent.com/54607208/72086503-087c2d00-32d5-11ea-8abe-f81c083d397f.PNG">
+
 <h2>Comparison by Killings</h2>
 <p>The fourth part will examine and compare the fatalities that resulted from the attacks of the two groups.</p>
+
+<img width="500" alt="number of attacks 2011-2018" src="https://user-images.githubusercontent.com/54607208/72086549-1762df80-32d5-11ea-8c4a-99a51a618437.PNG">
+
+<img width="650" alt="deaths" src="https://user-images.githubusercontent.com/54607208/72086573-221d7480-32d5-11ea-8c16-bd42e92f412e.PNG">
+
+<img width="650" alt="fatalities over time" src="https://user-images.githubusercontent.com/54607208/72086620-33ff1780-32d5-11ea-80f6-c65c97c8323e.PNG">
+
 <h2>Conclusions</h2>
 <ul type="disc">
   <li>Countries with the highest number of second-generation Muslim experienced more Jihadist terrorism than others. It will likely be this way in the future as well although there are other important factors that might influence the rise of Islamist extremism.</li>
